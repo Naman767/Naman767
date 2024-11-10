@@ -1,8 +1,8 @@
 
 <h1 align="center">Hi 👋, I'm Naman Vishnoi</h1>
 <h3 align="center">A passionate Java developer from India</h3>
+<img align="right" alt="Coding" width="400" src="https://media.tenor.com/C9qukZqPPS4AAAAM/coding-typing.gif">
 
-src="![image](https://github.com/user-attachments/assets/e4906169-0487-4043-9ecc-988d247cf111)
 
 ">
 - 📫 How to reach me **namanvishnoi23@gmail.com**
