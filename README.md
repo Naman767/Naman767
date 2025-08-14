@@ -15,7 +15,7 @@
 
 ### 🙋‍♂️ About Me
 
-- 🎓 I'm a final-year **B.Tech CSE** student at Bharat Institute of Technology, Meerut (2021–2025)  
+- 🎓 I'm a **B.Tech CSE** graduate at Bharat Institute of Technology, Meerut (2021–2025)  
 - 🔭 I’m currently working on Java backend projects with **Spring Boot**, **JPA**, and **MySQL**
 - 📚 Passionate about clean code, real-world software development, and continuous learning
 - 🧠 Always exploring Data Structures, OOP, and backend engineering practices
