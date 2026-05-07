@@ -1,74 +1,92 @@
 <div align="center">
-  <h1>Hi there, I'm <a href="https://github.com/Naman767">Naman Vishnoi</a> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28px"> </h1>
-  <p><strong>Java Backend Developer | Spring Boot Enthusiast | B.Tech CSE Graduate 2025</strong></p>
-  <img src="https://pronoun.cyou/x/y?subject=He&object=Him&height=20">
-</div>
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/naman-vishnoi/"><img height="30" src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/linkedin.png?raw=true"></a>&nbsp;&nbsp;
-  <a href="mailto:namanvishnoi23@gmail.com"><img height="30" src="https://img.icons8.com/fluency/48/gmail-new.png" alt="Gmail"></a>&nbsp;&nbsp;
-  <a href="https://github.com/Naman767"><img height="30" src="https://img.icons8.com/ios-glyphs/30/github.png"></a>&nbsp;&nbsp;
-  <a href="https://leetcode.com/u/NamanVishnoi/"><img height="30" src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png"></a>
+<h1>
+  Hey 👋, I'm 
+  <a href="https://github.com/Naman767">Naman Vishnoi</a>
+</h1>
+
+<h3>
+  🚀 Full Stack Java Developer • Spring Boot • React • Problem Solver
+</h3>
+
+<p>
+  Passionate about creating modern, responsive, and user-friendly applications with clean and efficient code.
 </p>
+
+</div>
 
 ---
 
 ### 🙋‍♂️ About Me
 
-- 🎓 **B.Tech CSE** (2021–2025) at Bharat Institute of Technology, Meerut  
-- 💻 Passionate about Java development, backend architecture, and RESTful APIs  
-- 🚀 Experienced in **Spring Boot**, **JPA**, **JDBC**, and relational databases like MySQL & PostgreSQL  
-- 📚 Exploring Data Structures, Algorithms, OOPS, and SDLC principles  
-- 🏆 Certified in Java Programming (Great Learning) | 3⭐ HackerRank Java  
-- ⚡ Quick learner, problem-solver, and team player
+- 🎓 **B.Tech CSE** Graduate (2021–2025) at Bharat Institute of Technology, Meerut, Uttar Pradesh.  
+- 💻 Passionate about Full Stack Development, System Design Architecture, and RESTful APIs.  
+- 🚀 Experienced in Backend system **Core Java**, **JavaScript**, **Spring Boot**, **JPA**, **Hibernate**, and Frontend **HTML**, **CSS** relational databases           like MySQL & PostgreSQL, MongoDB.  
+- 📚 Exploring Data Structure Algorithms, OOPS, Exception Handling, Multithreading and SDLC principles.  
+- 🏆 Certified in Java Programming (Great Learning) | OCI certification (Oracle University) | 4⭐ HackerRank.  
+- ⚡ Quick learner, problem-solver, and Positive Attitude.
 
 ---
 
 ### 🚀 My Projects
 
-- 💬 [Real Time Chat Application](https://github.com/Naman767/Real-Time-Chat/tree/my-new-branch) — Spring Boot + WebSocket + MongoDB  
-- 🧑‍💼 [Employee Management System](https://github.com/Naman767/Employee-Management-with-Spring-Boot/tree/my-new-branch) — Spring Boot + MySQL + JPA + JDBC  
-- 💰 [Expense Tracker](https://github.com/Naman767/Expense-Tracker/tree/my-new-branch) — Spring Boot + MySQL + REST APIs
+- 💬 [Real Time Chat Application](https://github.com/Naman767/Real-Time-Chat/tree/my-new-branch) — Core Java, Spring Boot, WebSocket, MongoDB, REST APIs.    
+- 💰 [Expense Tracker](https://github.com/Naman767/Expense-Tracker/tree/my-new-branch) — Core Java, Spring Boot, MySQL, REST APIs.
 
 ---
 
 ### 🛠 Tech Stack
 
 <p align="center">
-  <img src="https://img.icons8.com/color/48/java-coffee-cup-logo.png" height="40"/>  
-  <img src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/48/external-spring-boot-is-an-open-source-java-based-framework-used-to-create-a-micro-service-logo-shadow-tal-revivo.png" height="40"/>
-  <img src="https://img.icons8.com/ios-filled/50/mysql-logo.png" height="40"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/2/29/Postgresql_elephant.svg" height="40"/>
-  <img src="https://img.icons8.com/color/48/000000/git.png" height="40"/>
-  <img src="https://img.icons8.com/fluency/48/postman-api.png" height="40"/>
-  <img src="https://img.icons8.com/fluency/48/intellij-idea.png" height="40"/>
-  <img src="https://img.icons8.com/fluency/48/visual-studio-code-2019.png" height="40"/>
+  <img src="https://skillicons.dev/icons?i=java,spring,hibernate,mysql,react,js,git,github" />
 </p>
 
 ---
 
 ### 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Naman767&show_icons=true&theme=radical" />
-</p>
+  <p align="center"> <img src="https://streak-stats.demolab.com?user=Naman767&theme=tokyonight&hide_border=true" /> </p>
 
 ---
 
 ### 📫 Connect With Me
 
 <p align="center">
-  <a href="tel:+919389269534">📞 +91 9389269534</a> &nbsp;|&nbsp;
-  <a href="mailto:namanvishnoi23@gmail.com">📧 namanvishnoi23@gmail.com</a> &nbsp;|&nbsp;
-  <a href="https://www.linkedin.com/in/naman-vishnoi/">💼 LinkedIn</a> &nbsp;|&nbsp;
-  <a href="https://github.com/Naman767">🐙 GitHub</a> &nbsp;|&nbsp;
-  <a href="https://leetcode.com/u/NamanVishnoi/">💡 LeetCode</a>
+
+<a href="tel:+919389269534">
+  <img src="https://img.icons8.com/fluency/48/phone.png" height="48" alt="Phone" />
+</a>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+<a href="https://www.linkedin.com/in/naman-vishnoi/" target="_blank">
+  <img src="https://skillicons.dev/icons?i=linkedin" height="48" />
+</a>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+<a href="mailto:namanvishnoi23@gmail.com">
+  <img src="https://skillicons.dev/icons?i=gmail" height="48" />
+</a>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+<a href="https://github.com/Naman767" target="_blank">
+  <img src="https://skillicons.dev/icons?i=github" height="48" />
+</a>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+<a href="https://leetcode.com/u/NamanVishnoi/" target="_blank">
+  <img src="https://cdn.simpleicons.org/leetcode/FFA116" height="48" />
+</a>
+
 </p>
 
 ---
-
-<h3 align="center">⚡️ “Building strong backend logic, one Java class at a time.” ⚡️</h3>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=26&pause=1000&color=38BDF8&center=true&vCenter=true&width=800&lines=Bug+Fixer+by+Day+%F0%9F%94%A7;Code+Debugger+by+Night+%F0%9F%8C%99;Coffee+Powered+Developer+%E2%98%95;Turning+Ideas+Into+Code+%F0%9F%9A%80" />
+</p>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg" alt="Footer" />
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:1A2980,100:26D0CE&height=120&section=footer"/>
 </p>
+
+
+
